@@ -37,6 +37,7 @@ public class Question5 {
         points.add(point1);
         points.add(point2);
 }
+
     public double distancePoint(List<Map<String,Integer>> points) {
         int x1= 0; int x2 = 0;
         int y1= 0; int y2 = 0;
