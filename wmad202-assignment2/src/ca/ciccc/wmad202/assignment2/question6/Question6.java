@@ -2,6 +2,7 @@ package ca.ciccc.wmad202.assignment2.question6;
 
 import java.util.Scanner;
 
+
     public class Question6 {
 
         public static void validArithmeticStatement(){
