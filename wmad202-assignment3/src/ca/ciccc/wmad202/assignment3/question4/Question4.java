@@ -1,6 +1,7 @@
 package ca.ciccc.wmad202.assignment3.question4;
 import java.util.Arrays;
 public class Question4 {
+
     public static void repeatedIntegers(){
 
             int element = Integer.MIN_VALUE, max_count=1, count=1;
