@@ -1,6 +1,7 @@
 package ca.ciccc.wmad202.assignment5.question3;
 
 public class SinglePolynomialFactor {
+
     private int coefficient;
     private String baseFactor;
     private int exponent;

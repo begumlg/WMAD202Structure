@@ -1,6 +1,7 @@
 package ca.ciccc.wmad202.assignment5.question3;
 import java.util.HashMap;
 public class PolynomialFactor {
+
     private HashMap<SinglePolynomialFactor, Integer> singlePolynomialFactors;
 
     public PolynomialFactor() {

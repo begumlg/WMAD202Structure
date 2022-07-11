@@ -1,6 +1,7 @@
 package ca.ciccc.wmad202.assignment5.question3;
 
 public class FactorApplication {
+
     public void run() {
         SinglePolynomialFactor factor1= new SinglePolynomialFactor(4,"x",2);
         SinglePolynomialFactor factor2= new SinglePolynomialFactor(4,"x",2);
