@@ -11,7 +11,6 @@ public class Question2 {
         int n = s.nextInt();
 
         }
-
     public static boolean primeNumber(int n)
 
     {
