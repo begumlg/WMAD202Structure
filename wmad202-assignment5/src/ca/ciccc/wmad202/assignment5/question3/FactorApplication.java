@@ -15,7 +15,6 @@ public class FactorApplication {
         System.out.println(factor3.getPolynomialFactor());
 
 
-
         System.out.println(factor);
         System.out.println(factor12);
     }

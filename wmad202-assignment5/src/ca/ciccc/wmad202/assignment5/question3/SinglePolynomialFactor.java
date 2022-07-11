@@ -14,6 +14,7 @@ public class SinglePolynomialFactor {
     public int getCoefficient(){
         return this.coefficient;
     }
+
     public int getExponent(){
         return this.exponent;
     }

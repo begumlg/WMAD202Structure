@@ -11,6 +11,7 @@ public class PolynomialFactor {
         this.singlePolynomialFactors = singlePolynomialFactors;
 
     }
+
     public void addSinglePolynomialFactor(SinglePolynomialFactor single,int number){
         this.singlePolynomialFactors.put(single,number);
 
