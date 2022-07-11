@@ -3,9 +3,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.HashSet;
 
-
 public class Question2 {
-
         public static HashMap<String, HashSet<String>> createHashMap; HashSet<String> words;
         {
             Scanner input = new Scanner(System.in);

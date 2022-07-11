@@ -1,6 +1,5 @@
 package ca.ciccc.wmad202.assignment2.question10;
 
-
 import java.util.Scanner;
 
 public class Question10 {
