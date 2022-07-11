@@ -5,6 +5,7 @@ public class SinglePolynomialFactor {
     private String baseFactor;
     private int exponent;
 
+
     public SinglePolynomialFactor(int coefficient,String baseFactor,int exponent){
         this.coefficient=coefficient;
         this.baseFactor=baseFactor;

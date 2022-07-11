@@ -5,6 +5,7 @@ public class FactorApplication {
         SinglePolynomialFactor factor1= new SinglePolynomialFactor(4,"x",2);
         SinglePolynomialFactor factor2= new SinglePolynomialFactor(4,"x",2);
 
+
         String factor= factor1.getSinglePolynomialFactor();
         String factor12= factor2.getSinglePolynomialFactor();
 

@@ -7,6 +7,7 @@ public class PolynomialFactor {
         this.singlePolynomialFactors = new HashMap<>();
     }
 
+
     public PolynomialFactor(HashMap<SinglePolynomialFactor, Integer> singlePolynomialFactors) {
         this.singlePolynomialFactors = singlePolynomialFactors;
 
