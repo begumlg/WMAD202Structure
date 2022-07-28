@@ -4,7 +4,6 @@ public class ComputerProgram {
     private String name;
     private ArrayList<String> codes;
     private String version;
-
     public ComputerProgram(){
         this.name="New Program";
         this.codes= new ArrayList<>();
